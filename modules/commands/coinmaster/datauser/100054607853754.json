@@ -1,0 +1,18 @@
+{
+    "name": "Lưu Hoàng",
+    "ID": "100054607853754",
+    "shield": 3,
+    "coins": 30000,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 0,
+            "tree": 0,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 15,
+    "timeRegister": "21:30:10, 17/12/2023"
+}

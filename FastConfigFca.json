@@ -1,0 +1,20 @@
+{
+    "Language": "vi",
+    "PreKey": "",
+    "AutoUpdate": true,
+    "MainColor": "#9900FF",
+    "MainName": "[ FCA-HZI ]",
+    "Uptime": false,
+    "Login2Fa": false,
+    "AutoLogin": false,
+    "BroadCast": false,
+    "EncryptFeature": false,
+    "ResetDataLogin": false,
+    "AutoRestartMinutes": 0,
+    "HTML": {
+        "HTML": false,
+        "UserName": "Guest",
+        "MusicLink": ""
+    },
+    "AuthString": "NSVB A2KM AHXK 7F2L R3PR PSEE VJWB SMWT"
+}

@@ -1,0 +1,18 @@
+{
+    "name": "Pwnam Khonqmeloli",
+    "ID": "100074168000776",
+    "shield": 3,
+    "coins": 200,
+    "Island": {
+        "level": 1,
+        "coinsLV": 200,
+        "data": {
+            "tower": 10,
+            "tree": 10,
+            "pool": 0,
+            "pet": 0
+        }
+    },
+    "spin": 19,
+    "timeRegister": "14:02:57, 10/7/2022"
+}
